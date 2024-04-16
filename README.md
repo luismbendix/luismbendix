@@ -4,7 +4,7 @@ Hi, I'm Luis Maria Bendix, also known as luismbendix on GitHub. I'm a sports ent
 
 ## Technology and Programming
 
-- 💻 Programming Languages: &nbsp;&nbsp;&nbsp;[<img height="20" width="20" src="https://cdn.simpleicons.org/python" />](https://www.python.org/psf-landing/)&nbsp;&nbsp;&nbsp;[<img height="20" width="20" src="https://cdn.simpleicons.org/cplusplus" />](https://isocpp.org/)&nbsp;&nbsp;&nbsp;[<img height="20" width="20" src="https://cdn.simpleicons.org/arduino" />](https://www.arduino.cc/) &nbsp;&nbsp;&nbsp;[<img height="20" width="20" src="csharp" />]([https://www.arduino.cc/](https://dotnet.microsoft.com/en-us/languages/csharp)) 
+- 💻 Programming Languages: &nbsp;&nbsp;&nbsp;[<img height="20" width="20" src="https://cdn.simpleicons.org/python" />](https://www.python.org/psf-landing/)&nbsp;&nbsp;&nbsp;[<img height="20" width="20" src="https://cdn.simpleicons.org/cplusplus" />](https://isocpp.org/) &nbsp;&nbsp;&nbsp;[<img height="20" width="20" src="https://cdn.simpleicons.org/csharp" />](https://dotnet.microsoft.com/en-us/languages/csharp)&nbsp;&nbsp;&nbsp;[<img height="20" width="20" src="https://cdn.simpleicons.org/arduino" />](https://www.arduino.cc/)
 - 🛠️ Technical Skills: Crafting code that dances with hardware (Arduino, ESP), and a flair for Electrical/Mechatronics wizardry.
 - 👨🏼‍💻 Projects: Presently crafting Python scripts, sculpting front-end designs, and conjuring programs to enhance data functionality.
 

@@ -1,6 +1,6 @@
 # This is Me
 
-Hi, I'm Luis Maria Bendix, also known as luismbendix on GitHub. I'm a sports enthusiast, tech-savvy student of Biomedical Technologies currently in the 5th semester. When not immersed in lines of code, you can catch me swinging golf clubs, pumping iron at the gym, or chasing adrenaline on gravel and mountain bike trails.
+Hi, I'm Luis Maria Bendix, also known as luismbendix on GitHub. I'm a sports enthusiast, tech-savvy student of Biomedical Technologies currently in the 7th semester. When not immersed in lines of code, you can catch me swinging golf clubs, pumping iron at the gym, or chasing adrenaline on gravel and mountain bike trails.
 
 ## Technology and Programming
 

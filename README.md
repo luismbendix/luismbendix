@@ -1,6 +1,6 @@
 # This is Me
 
-Hi, I'm Luis Maria Bendix, also known as luismbendix on GitHub. I'm a sports enthusiast, tech-savvy student of Biomedical Technologies currently in the 7th semester. When not immersed in lines of code, you can catch me swinging golf clubs, pumping iron at the gym, or chasing adrenaline on gravel and mountain bike trails.
+Hi, I'm Luis Maria Bendix, also known as luismbendix on GitHub. I'm a tech-savvy sports enthusiast and master's student in Product Development and Business Studies (currently in my first semester). When I'm not immersed in lines of code or smart home integrations, you'll likely find me on the golf course, lifting weights at the gym, or chasing adrenaline on gravel roads and mountain bike trails.
 
 ## Technology and Programming
 
@@ -11,8 +11,8 @@ Hi, I'm Luis Maria Bendix, also known as luismbendix on GitHub. I'm a sports ent
 
 ## Education and Experience
 
-- 🎓 Software: Biomedical Technologies (5th semester), currently absorbing knowledge during an internship at Fresenius Medical Care.
-- 🛠️ Hardware: Trained as a System and High-Voltage Mechatronics Technician, with certification as a Practice Manager specializing in a doctor's office setting.
+- 🎓 Software: Bachelor's degree in *Biomedical Technologies* (completed), currently pursuing a Master's in *Product Development and Business Studies* (1st semester). Gaining practical insights as a working student at Fresenius Medical Care.
+- 🛠️ Hardware: Trained as a System and High-Voltage Mechatronics Technician, with additional certification as a Practice Manager focused on medical practice environments.
 
 ## Interests Beyond Programming
 
